@@ -21,7 +21,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "author1.jpeg"
   name             : "Ahsan Tanveer"
   pronouns         : "he/him"  
   bio              : "A robotics Phd student"
