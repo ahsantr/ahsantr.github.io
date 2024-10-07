@@ -1,13 +1,15 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Ahsan Tanveer"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+Welcome to my website. :)
+
+I am currently a Ph.D. candidate in the Intelligent Biomimetic Design Lab at Peking University. Previously I was a lecturer at Air University Islamabad. I completed my M.S. at GIK Institute of Engineering Sciences and Technology in mechanical engineering in July 2021. At GIK, I was advised by Sarvat Ahmad and was a member of the Vibrational Dynamics and Control Systems Lab. I received my B.S. from University of Engineering and Technology Peshawar with highest honors in mechanical engineering in 2019. I have also worked at King Fahd University of Petroleum and Minerals and National Univesity of Sciences and Technology.
 
 A data-driven personal website
 ======
