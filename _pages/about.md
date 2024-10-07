@@ -9,9 +9,9 @@ redirect_from:
 
 Welcome to my website. :)
 
-I am currently a Ph.D. candidate in the [Intelligent Biomimetic Design Lab](https://en.ibdl.pku.edu.cn/) at Peking University. Previously I was a lecturer at Air University Islamabad. I completed my M.S. at GIK Institute of Engineering Sciences and Technology in mechanical engineering in July 2021. At GIK, I was advised by Sarvat Ahmad and was a member of the Vibrational Dynamics and Control Systems Lab. I received my B.S. from University of Engineering and Technology Peshawar with highest honors in mechanical engineering in 2019. I have also worked at King Fahd University of Petroleum and Minerals and National Univesity of Sciences and Technology.
+I am currently a Ph.D. candidate in the [Intelligent Biomimetic Design Lab](https://en.ibdl.pku.edu.cn/) at [Peking University](pku.edu.cn). Previously I was a lecturer at [Air University](au.edu.pk). I completed my M.S. at [GIK Institute of Engineering Sciences and Technology](giki.edu.pk) in mechanical engineering in July 2021. At GIK, I was advised by [Sarvat Ahmad](cie.kfupm.edu.sa/people/faculty/dr-sarvat-m-ahmad/) and was a member of the [Vibrational Dynamics and Control Systems Lab](sites.google.com/prod/view/controllabgiki/home). I received my B.S. from [University of Engineering and Technology Peshawar](www.uetpeshawar.edu.pk) with highest honors in mechanical engineering in 2019. I have also worked at [King Fahd University of Petroleum and Minerals](kfupm.edu.sa) and [National Univesity of Sciences and Technology](nust.edu.pk).
 
-If you have any questions or comments, please feel free to contact me at ahsan.tanveer@mail.au.edu.pk
+If you have any questions or comments, please feel free to contact me at [ahsantanveer3883@gmail.com](ahsantanveer3883@gmail.com)
 
 
 Getting started
