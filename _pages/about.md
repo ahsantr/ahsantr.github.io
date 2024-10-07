@@ -9,7 +9,7 @@ redirect_from:
 
 Welcome to my website. :)
 
-I am currently a Ph.D. candidate in the Intelligent Biomimetic Design Lab at Peking University. Previously I was a lecturer at Air University Islamabad. I completed my M.S. at GIK Institute of Engineering Sciences and Technology in mechanical engineering in July 2021. At GIK, I was advised by Sarvat Ahmad and was a member of the Vibrational Dynamics and Control Systems Lab. I received my B.S. from University of Engineering and Technology Peshawar with highest honors in mechanical engineering in 2019. I have also worked at King Fahd University of Petroleum and Minerals and National Univesity of Sciences and Technology.
+I am currently a Ph.D. candidate in the [Intelligent Biomimetic Design Lab](https://en.ibdl.pku.edu.cn/) at Peking University. Previously I was a lecturer at Air University Islamabad. I completed my M.S. at GIK Institute of Engineering Sciences and Technology in mechanical engineering in July 2021. At GIK, I was advised by Sarvat Ahmad and was a member of the Vibrational Dynamics and Control Systems Lab. I received my B.S. from University of Engineering and Technology Peshawar with highest honors in mechanical engineering in 2019. I have also worked at King Fahd University of Petroleum and Minerals and National Univesity of Sciences and Technology.
 
 A data-driven personal website
 ======
