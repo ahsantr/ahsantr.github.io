@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: Soft Robotics DC @ <a href='[#](https://english.pku.edu.cn/)'>Peking University</a>. Address. Contacts. Motto. Etc.
 
 profile:
   align: right
